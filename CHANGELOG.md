@@ -1,3 +1,5 @@
+# Changelog
+
 Version 2.0 - Universal Dice
 - New user-friendly optimized GUI.
 - New menubar.
