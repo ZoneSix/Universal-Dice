@@ -3,7 +3,7 @@ Java GUI utility to simulate virtual dice made in NetBeans IDE 8.0.2
 
 This utility started out as a school assignment to render simple graphics to the GUI in Java.
 I later distributed it to my website. The second assigment we got was to built on our existing program
-but make the dice in to an object. I also built on top of the existing program in the meantime witch
+but make the dice in to an object. I also built on top of the existing program in the meantime whitch
 GUI optimizations to make it more user-friendly, support up to 5 dice for various games and ect,
 leading up to the second version.
 
